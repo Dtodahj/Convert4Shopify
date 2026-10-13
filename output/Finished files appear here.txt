@@ -1,0 +1,1 @@
+Shopify-ready CSV files and review reports will appear in this folder.

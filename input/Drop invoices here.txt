@@ -1,0 +1,2 @@
+Put original .csv, .xlsx, or .ods invoice files in this folder, then double-click Convert Invoices.cmd.
+

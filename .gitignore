@@ -1,0 +1,17 @@
+# Customer invoices and generated files
+input/*.csv
+input/*.xlsx
+input/*.ods
+output/*.csv
+output/*.xlsx
+output/*.ods
+
+# Preserve the instructional placeholders
+!input/Drop invoices here.txt
+!output/Finished files appear here.txt
+
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak

@@ -1,0 +1,41 @@
+{
+  "source_columns": {
+    "sku": "Code",
+    "title": "Title",
+    "quantity": "Qty",
+    "retail": "Retail",
+    "cost": "Discounted Price",
+    "barcode": "UPC",
+    "in_store_date": "In-Store Date",
+    "item_category": "Item Category",
+    "country": "Country of Origin"
+  },
+  "defaults": {
+    "vendor": "Lunar Distribution",
+    "product_category": "",
+    "type": "Comics & Collectibles",
+    "tags": "Lunar Distribution",
+    "add_country_tag": true,
+    "published_on_online_store": "false",
+    "status": "draft",
+    "charge_tax": "true",
+    "inventory_tracker": "shopify",
+    "continue_selling_when_out_of_stock": "deny",
+    "weight_grams": "0",
+    "weight_unit": "g",
+    "requires_shipping": "true",
+    "fulfillment_service": "manual"
+  },
+  "category_map": {
+    "0": "Promotional Item",
+    "1": "Comic Book",
+    "3": "Graphic Novel",
+    "18": "Comic Supplies"
+  },
+  "inventory": {
+    "location": ""
+  },
+  "validation": {
+    "exclude_zero_price": true
+  }
+}

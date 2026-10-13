@@ -1,0 +1,3 @@
+Shopify Invoice Converter
+Version 1.2
+Packaged 2026-10-12
